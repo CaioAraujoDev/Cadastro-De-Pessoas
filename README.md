@@ -23,8 +23,9 @@ git clone https://github.com/CaioAraujoDev/Cadastro-De-Pessoas.git
 3. Abra o projeto no seu IDE(recomendado: Intellij IDEA)
 4. Execute a classe principal(Main)
 ## Exemplo de uso
-Noma da pessoa: Marcos
-Idade da pessoa: 32  
+Noma da pessoa: Marcos  
+Idade da pessoa: 32    
+
 O que você deseja fazer agora?  
 1 - Adicionar uma nova Pessoa  
 2 - Alterar uma Pessoa  

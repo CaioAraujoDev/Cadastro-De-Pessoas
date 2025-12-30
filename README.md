@@ -1,4 +1,4 @@
-# Calculadora em Java
+# Cadastro de Pessoas em Java
 
 Projeto de cadastro de pessoas simples em Java, utilizando POO.
 
